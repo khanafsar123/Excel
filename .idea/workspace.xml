@@ -1,24 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eebe2d6-68f8-4523-9022-33cd4b065db6" name="Changes" comment="" />
+    <list default="true" id="6eebe2d6-68f8-4523-9022-33cd4b065db6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Test.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExcelTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/ExcelTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExceptionRepl212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/ExceptionRepl212.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/PropertyClassExceptoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/PropertyClassExceptoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/excelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/excelData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StoringDataFromExcelToArray/ExcelDataStoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StoringDataFromExcelToArray/ExcelDataStoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/ExcelDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/ExcelDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/ExcelReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/ExcelReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/FileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/ReadingExcelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/ReadingExcelData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01Excel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01Excel/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/CallingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/CallingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/EvenNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/EvenNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/ExcelPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/ExcelPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/MethodExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/MethodExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/PropertyReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/PropertyReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/StoringDataToArray2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/StoringDataToArray2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/StroingDataIntoMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/StroingDataIntoMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02Storing/readingProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02Storing/readingProperty.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HAkYArryyNerqBsJQm489blNB9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/camro/IdeaProjects/ExcelDemo/Data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\camro\IdeaProjects\ExcelDemo\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\camro\IdeaProjects\ExcelDemo\Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelDataStoring">
+    <configuration name="EvenNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02Storing.EvenNumberSum" />
+      <module name="ExcelDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02Storing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelDataStoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StoringDataFromExcelToArray.ExcelDataStoring" />
+      <module name="ExcelDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoringDataFromExcelToArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02Storing.ExcelPractice" />
+      <module name="ExcelDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02Storing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoringDataToArray2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02Storing.StoringDataToArray2D" />
+      <module name="ExcelDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02Storing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="excelData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.excelData" />
+      <module name="ExcelDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelDataStoring" />
+        <item itemvalue="Application.StoringDataToArray2D" />
+        <item itemvalue="Application.excelData" />
+        <item itemvalue="Application.ExcelPractice" />
+        <item itemvalue="Application.EvenNumberSum" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +157,19 @@
       <updated>1667735321534</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
